@@ -10,12 +10,12 @@ git checkout: te permite desplazarte entre las ramas creadas por git branch
 
 git log: explorar el historial del repositorio
 
-git branch: te permite crear, enumerar y eliminar ramas, así como cambiar su nombre
+git branch: 
 
-git add: añade un cambio del directorio de trabajo en el entorno de ensayo
+git add: 
 
-git commit: confirmar una instantánea del directorio del entorno de ensayo en el historial de confirmaciones de los repositorios.
+git commit: confirmar
 
-git push: cargar contenido del repositorio local a un repositorio remoto.
+git push: cargar contenido 
 
-git merge: permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama
+git merge:
